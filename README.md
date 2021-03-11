@@ -1,3 +1,24 @@
+**Author:** Matthew Holder
+**Version:** 0.1
+
+[PR](https://github.com/holdermatthew5/template-djangox/pull/1#issue-590557131)
+
+# DjangoX Templating
+
+## Problem Domain:
+
+Use djangox template to build a website.
+Name the repo whatever you like.
+Create a Django app of your choosing.
+The specific functionality of the site is up to you but should make use of get_user_model.
+
+## Description:
+
+This 'Snack Store' website lists saved snacks and allows a user to create new ones or modify/delete old ones.
+Aside from using the DjangoX template to start the main difference here is setting up python and html snippets for use in repetitive code, getting the delete functionality working, and adding a 'last_modified' attribute to snack objects.
+
+Remainder comes from DjangoX templating.
+
 > A batteries-included Django starter project. For a production-ready version see the book [Django for Professionals](https://djangoforprofessionals.com).
 
 ## 🚀 Features
